@@ -1,4 +1,4 @@
-**Assignment**
+**Binder**
 
 To facilitate their exam preparation, a group of computer science students decided to systematize their note-taking method using a binder. For this method to be practical and truly systematic, the students determined that the binders they use must meet certain basic requirements.
 
